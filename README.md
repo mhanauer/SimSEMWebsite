@@ -1,4 +1,3 @@
-# SimSEMWebsite
 ---
 title: "Using simsem to conduct Power Analysis for Structural Equational Modeling"
 output: html_document
